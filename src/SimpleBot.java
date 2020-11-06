@@ -1,4 +1,5 @@
-//Created by Juan Picón 
+//Created by Juan Picón
+//Stage 3. How old are you? 
 package bot;
 
 import java.util.Scanner;
